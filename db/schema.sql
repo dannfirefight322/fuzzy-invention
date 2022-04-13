@@ -1,3 +1,3 @@
-DB_NAME=sazooanimals_db
-DB_USER=root
-DB_PASSWORD=D@Nsamm2020
+DROP DATABASE IF EXISTS sazoo_db;
+
+CREATE DATABASE sazoo_db;
